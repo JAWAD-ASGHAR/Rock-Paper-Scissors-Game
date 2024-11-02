@@ -24,3 +24,5 @@ The style.css file provides styling for the game elements, ensuring a visually a
 The script.js file contains the JavaScript code responsible for handling user input, generating the computer's move, determining the winner, and updating the score. The game logic follows the classic Rock Paper Scissors rules.
 
 Feel free to explore and modify the code to enhance or customize the game according to your preferences. Enjoy playing Rock Paper Scissors!
+
+[Live Demo](https://shiny-narwhal-4c95c6.netlify.app/)
